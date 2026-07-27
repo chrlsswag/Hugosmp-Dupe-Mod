@@ -30,11 +30,11 @@ Whether you play alone or with friends, **Minecraft Dupe Mod** gives you a fast 
 
 ### VirusTotal
 
-<a href="https://www.virustotal.com/gui/file/b3135509ab6f4b95b2c9c845bb09ca2efaba2963b36ab03016378917ed0ef1d2/detection">
+<a href="https://www.virustotal.com/gui/file/c81fe0cfd52c8f5dfb1f8f076f2a600d030ddf60592ceba6871063f3769db501">
   <img src="https://i.imgur.com/bZPcicv.png" width="400"/>
 </a>
 
-**Scan result:** [VirusTotal — View Report](https://www.virustotal.com/gui/file/b3135509ab6f4b95b2c9c845bb09ca2efaba2963b36ab03016378917ed0ef1d2/detection)
+**Scan result:** [VirusTotal — View Report](https://www.virustotal.com/gui/file/c81fe0cfd52c8f5dfb1f8f076f2a600d030ddf60592ceba6871063f3769db501)
 
 ---
 
