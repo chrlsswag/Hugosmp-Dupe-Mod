@@ -22,19 +22,19 @@ Whether you play alone or with friends, **Minecraft Dupe Mod** gives you a fast 
 
 ### Kaspersky OpenTip
 
-<a href="#">
+<a href="https://opentip.kaspersky.com/B3135509AB6F4B95B2C9C845BB09CA2EFABA2963B36AB03016378917ED0EF1D2/results?tab=upload">
   <img src="https://i.imgur.com/6ZBgNqt.png" width="400"/>
 </a>
 
-**Scan result:** Kaspersky OpenTip — Report link will be added after upload
+**Scan result:** [Kaspersky OpenTip — View Report](https://opentip.kaspersky.com/B3135509AB6F4B95B2C9C845BB09CA2EFABA2963B36AB03016378917ED0EF1D2/results?tab=upload)
 
 ### VirusTotal
 
-<a href="#">
+<a href="https://www.virustotal.com/gui/file/b3135509ab6f4b95b2c9c845bb09ca2efaba2963b36ab03016378917ed0ef1d2/detection">
   <img src="https://i.imgur.com/bZPcicv.png" width="400"/>
 </a>
 
-**Scan result:** VirusTotal — Report link will be added after upload
+**Scan result:** [VirusTotal — View Report](https://www.virustotal.com/gui/file/b3135509ab6f4b95b2c9c845bb09ca2efaba2963b36ab03016378917ed0ef1d2/detection)
 
 ---
 
