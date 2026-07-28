@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/XIDDhIm.jpeg" width="600"/>
 
-HugoSMP **Dupe Mod** — **Minecraft Dupe Mod** Download
+**HugoSMP Dupe Mod** Download
 
 Note: **Scroll Down For Installation Guide**
 
@@ -10,9 +10,9 @@ Note: **Scroll Down For Installation Guide**
 
 ## What is HugoSMP Dupe Mod?
 
-**HugoSMP Dupe Mod** is a simple **Minecraft Dupe Mod** mod built for Minecraft players who want a lightweight dupe utility for Fabric. This repository is the official home for the latest **Minecraft Dupe Mod** release.
+**HugoSMP Dupe Mod** is a simple **HugoSMP Dupe Mod** mod built for Minecraft players who want a lightweight dupe utility for Fabric. This repository is the official home for the latest **HugoSMP Dupe Mod** release.
 
-Whether you play alone or with friends, **Minecraft Dupe Mod** gives you a fast way to duplicate the item in your hand with a clean command and keybind setup for supported Fabric versions.
+Whether you play alone or with friends, **HugoSMP Dupe Mod** gives you a fast way to duplicate the item in your hand with a clean command and keybind setup for supported Fabric versions.
 
 ---
 
@@ -38,7 +38,7 @@ Whether you play alone or with friends, **Minecraft Dupe Mod** gives you a fast 
 
 ---
 
-## Minecraft Dupe Mod Installation Guide
+## HugoSMP Dupe Mod Installation Guide
 
 ### Requirements
 
